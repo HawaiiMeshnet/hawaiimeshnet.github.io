@@ -18,5 +18,4 @@ params:
     - name: "Instagram"
       url: "https://www.instagram.com/hawaiimeshnet"
     - name: "phone"
-      url: "tel:+9158951556"
-    - name: "other"
+      url: "sms:+9158951556"
