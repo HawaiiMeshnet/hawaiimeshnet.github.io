@@ -1,0 +1,22 @@
+baseURL: https://www.hawaiimesh.net/
+languageCode: en-us
+title: Hawaii Meshnet
+theme: ["PaperMod"]
+
+params:
+  homeInfoParams:
+    Title: Aloha!
+    Content: We're radio enthusiasts setting up a secure, off grid, emergency communication system using [Meshtastic](https://meshtastic.org/) nodes. Things are still being put together here but feel free to reach out to us using the links below for more information.
+
+  socialIcons: # optional
+    - name: "email"
+      url: "mailto:hello@hawaiimesh.net"
+    - name: "Telegram"
+      url: "https://t.me/hawaiimeshnet"
+    - name: "Discord"
+      url: "https://discord.com/invite/ktMAKGBnBs"
+    - name: "Instagram"
+      url: "https://www.instagram.com/hawaiimeshnet"
+    - name: "phone"
+      url: "tel:+9158951556"
+    - name: "other"
